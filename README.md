@@ -3,8 +3,7 @@
     Hello, it's vm4tech profile!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
-  <img src="https://readme-typing-svg.herokuapp.com/?color=1E90FF&center=true&lines=Backend+developer">
-</div>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&duration=3000&pause=1000&color=FFA500&background=375EFF00&center=true&multiline=true&width=435&height=100&lines=Backend+developer+;Fullstack+developer;Little+bit+frontend" alt="Typing SVG" /></a>
 
 ## About me
 A passionate Java developer with **over 3 years** of development experience, constantly looking for and learning new technologies and their applications in business and personal life.
