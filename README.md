@@ -7,7 +7,7 @@
 </div>
 
 ## About me
-A passionate Java developer with **over 3 years** of development experience, constantly looking for and learning new technologies and their applications in business and personal life.
+A passionate Java developer with **over 5 years** of development experience, constantly looking for and learning new technologies and their applications in business and personal life.
 
 - I love **highload**, **clean code**, **challenges** and cat memes. 😄 
 - I have experience in a **wide range** of technologies. 🔭
